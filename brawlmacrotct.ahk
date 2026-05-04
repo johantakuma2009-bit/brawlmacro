@@ -87,7 +87,7 @@ pasosNormales.Push({ tipo:"pimg", nombre:"INTHEGAME",     color:0x38373E, catego
 pasosNormales.Push({ tipo:"pimg", nombre:"closing...",    color:0xD7D554, categoria:5, hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:300000, lastUsed:0, x1:742, y1:515, x2:743, y2:518 })
 pasosNormales.Push({ tipo:"pimg", nombre:"enteringroom1", color:0xFF89D0, categoria:5, hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:500, lastUsed:0, x1:389, y1:566, x2:393, y2:567 })
 pasosNormales.Push({ tipo:"pimg", nombre:"enteringroom2", color:0x3F7F96, categoria:5, hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:500, lastUsed:0, x1:366, y1:549, x2:366, y2:549 })
-pasosNormales.Push({ tipo:"pimg", nombre:"leaving...",    color:0x30F1DD, categoria:5, hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:500, bloqueoGlobal:4000, lastUsed:0, x1:859, y1:928, x2:863, y2:931 })
+pasosNormales.Push({ tipo:"pimg", nombre:"leaving...",    color:0x30F1DD, categoria:5, hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:500, bloqueoGlobal:2000, lastUsed:0, x1:859, y1:928, x2:863, y2:931 })
 
 pasosNormales.Push({ tipo:"pimg", nombre:"nowifi",        color:0x30F1DD, categoria:6, accion:"c", hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:500, lastUsed:0, x1:983, y1:463, x2:983, y2:464 })
 pasosNormales.Push({ tipo:"pimg", nombre:"recconect",     color:0x0CFEAD, categoria:6, accion:"Esc", hold:400, tolerancia:1, delayClick:500, delayTecla:500, cooldown:500, bloqueoGlobal:4000, lastUsed:0, x1:106, y1:246, x2:106, y2:246 })
