@@ -125,7 +125,7 @@ global eggClicks := 0, eggUltimo := 0, eggDesbloqueado := false
 global horaInicioSesion := ""
 
 ; ===== ACTUALIZADOR =====
-global VERSION_ACTUAL := "1.0.4"
+global VERSION_ACTUAL := "1.0.5"
 global GITHUB_VERSION_URL := "https://raw.githubusercontent.com/johantakuma2009-bit/brawlmacro/main/parches.txt"
 global GITHUB_SCRIPT_URL  := "https://raw.githubusercontent.com/johantakuma2009-bit/brawlmacro/main/brawlmacrotct.ahk"
 global updateGui := "", updateGuiVisible := false
