@@ -4,7 +4,7 @@ CoordMode("Pixel", "Screen")
 CoordMode("Mouse", "Screen")
 
 ; ===== CONFIGURACION =====
-nombreVentana := ""
+nombreVentana := 
 tolerancia := 1
 esperaEntrePasos := 100
 configPath := A_ScriptDir "\brawlmacro_config.ini"
