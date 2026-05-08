@@ -1,4 +1,4 @@
-#Requires AutoHotkey v2.0
+equires AutoHotkey v2.0
 #SingleInstance Force
 CoordMode("Pixel", "Screen")
 CoordMode("Mouse", "Screen")
