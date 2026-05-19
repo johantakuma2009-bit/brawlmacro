@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xxd \"/c/Users/Shaggy/Downloads/brawlmacro/brawlmacro/brawlmacro_eggs.txt\")"
+    ]
+  }
+}
